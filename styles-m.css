@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1111px) {
+@media only screen and (max-width: 1000px) {
     .container {
       width: 90%;
     }
@@ -14,7 +14,7 @@
     }
   }
   
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 1000px) {
     .container {
       width: 97%;
     }
